@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://mandarburande.me/sitemap/sitemap-index.xml
+Host: https://mandarburande.me
